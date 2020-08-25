@@ -8,6 +8,6 @@ void main(){
 	//수정
 }
 
-int divide_premium(int a, int b){
+int divide(int a, int b){
 	return a/b;
 }
