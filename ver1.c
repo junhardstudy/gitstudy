@@ -5,5 +5,5 @@ void main(){
 	a = 3;
 	b= 2;
 	printf("result : %d", a + b);
-
+	//수정
 }
