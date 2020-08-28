@@ -21,3 +21,6 @@ void get_Abss(int a){
 	else{
 		return a;
 	}
+float get_Percent(int a, int b){
+	return ((float)a/b)*100;
+}
