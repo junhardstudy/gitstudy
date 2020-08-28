@@ -24,3 +24,7 @@ void get_Abss(int a){
 float get_Percent(int a, int b){
 	return ((float)a/b)*100;
 }
+
+int get_Sum(int n){
+	return n(n+1)/2;
+}
