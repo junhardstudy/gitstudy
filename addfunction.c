@@ -7,3 +7,6 @@ void main(){
 	printf("%d ++ %d = %d\n", a, b, a+b);
 }
 
+void square(int a){
+	return a*a;
+}
