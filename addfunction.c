@@ -11,6 +11,6 @@ void get_median(int a, int b){
 	return (a+b)/2;
 }
 
-int get_Sum(int n){
+int get_Sum_ver2(int n){
 	return n(n+1)/2;
 }
