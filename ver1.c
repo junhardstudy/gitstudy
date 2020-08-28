@@ -7,7 +7,3 @@ void main(){
 	printf("result : %d", a + b);
 	//수정
 }
-
-int divide(int a, int b){
-	return a/b;
-}
