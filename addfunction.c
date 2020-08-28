@@ -28,3 +28,11 @@ float get_Percent(int a, int b){
 int get_Sum(int n){
 	return n(n+1)/2;
 }
+
+int get_Fact(int n){
+	int i, tmp = 1;
+	for(; n>0;n--){
+		tmp *= n;
+	}
+	return tmp;
+}
