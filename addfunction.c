@@ -10,3 +10,7 @@ void main(){
 void get_median(int a, int b){
 	return (a+b)/2;
 }
+
+int get_Sum(int n){
+	return n(n+1)/2;
+}
