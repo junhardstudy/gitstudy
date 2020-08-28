@@ -11,4 +11,7 @@ void get_median(int a, int b){
 	return (a+b)/2;
 void remainder(int a, int b){
 	return a%b;
+=======
+void square(int a){
+	return a*a;
 }
