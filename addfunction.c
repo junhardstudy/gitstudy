@@ -34,5 +34,6 @@ int get_Fact(int n){
 	for(; n>0;n--){
 		tmp *= n;
 	}
+	/*개선된 기능이 적당히 추가되엇다는 라인*/
 	return tmp;
 }
