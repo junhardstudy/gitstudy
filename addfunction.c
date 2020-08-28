@@ -7,3 +7,6 @@ void main(){
 	printf("%d ++ %d = %d\n", a, b, a+b);
 }
 
+void get_median(int a, int b){
+	return (a+b)/2;
+}
